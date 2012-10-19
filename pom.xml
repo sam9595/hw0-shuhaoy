@@ -4,8 +4,8 @@
 	<artifactId>hw0-shuhaoy</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git:git://github.com/sam9595/hw0-shuhaoy.git</connection>
-		<developerConnection>scm:git:git://github.com/sam9595/hw0-shuhaoy.git</developerConnection>
+		<connection>scm:git:git@github.com:sam9595/hw0-shuhaoy.git</connection>
+		<developerConnection>scm:git:git@github.com:sam9595/hw0-shuhaoy.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
